@@ -19,6 +19,6 @@
 - Don't import any third-party libraries to achieve the semi-circle or animation
 # Steps
 1. Fork this repository
-2. Send a GET request to https://dev.movinganalytics.com/test/indicators to fetch the data you need to populate the components. Each response will contain a randomized array of data to display.
+2. Send a GET request to https://sandbox.movinganalytics.com/test/indicators to fetch the data you need to populate the components. Each response will contain a randomized array of data to display.
 3. Make a Pull Request for your work ONLY when you're completely finished
 
